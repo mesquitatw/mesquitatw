@@ -1,10 +1,15 @@
 # Olá, me chamo Guilherme. 👋
 
 <!-- EDITE: coloque aqui seu cargo atual e há quanto tempo atua, por exemplo "Desenvolvimento de software full stack". -->
-Atuo no desenvolvimento de **sistemas web e automações para uma empresa de engenharia e construção**:
+**Gestão de projetos de software e automação de processos** em uma empresa de engenharia e construção. Coordeno a equipe nas entregas, estruturo o software e transformo a lógica dos processos do negócio em sistemas:
 aplicações que rodam em produção no portal corporativo e se integram a ERP, Microsoft 365 e equipamentos de campo.
 
-## O que eu construo
+## Como eu atuo
+- **Coordeno a equipe e as entregas**: priorização, acompanhamento e entrega de projetos de software.
+- **Estruturo a solução**: levantamento de requisitos com as áreas, desenho da arquitetura e modelagem de dados.
+- **Automatizo processos empresariais**: entendo a regra de negócio e a transformo em fluxos, aprovações e integrações.
+
+## O que foi entregue
 - **Aplicações web completas** em PHP e MySQL, com front-end em JavaScript puro, do banco de dados à tela.
 - **PWAs para tablet e celular** usados no canteiro e na fábrica, com câmera, leitor de QR e trabalho offline.
 - **Integrações**: Microsoft Graph (Teams, SharePoint, e-mail), login Microsoft, ERP em SQL Server e arquivos do MS Project.
