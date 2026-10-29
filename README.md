@@ -1,4 +1,4 @@
-# Olá. 👋
+# Olá, me chamo Guilherme. 👋
 
 <!-- EDITE: coloque aqui seu cargo atual e há quanto tempo atua, por exemplo "Desenvolvimento de software full stack". -->
 Atuo no desenvolvimento de **sistemas web e automações para uma empresa de engenharia e construção**:
