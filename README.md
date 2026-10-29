@@ -1,6 +1,8 @@
 # Olá, me chamo Guilherme. 👋
 
 <!-- EDITE: coloque aqui seu cargo atual e há quanto tempo atua, por exemplo "Desenvolvimento de software full stack". -->
+LinkedIn: https://www.linkedin.com/in/guilherme-bril-mesquita-5724a0231/
+
 **Gestão de projetos de software e automação de processos** em uma empresa de engenharia e construção. Coordeno a equipe nas entregas, estruturo o software e transformo a lógica dos processos do negócio em sistemas:
 aplicações que rodam em produção no portal corporativo e se integram a ERP, Microsoft 365 e equipamentos de campo.
 
